@@ -9,8 +9,8 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 metadata:
-  title: Fresh
-  description: A personal theme with a blog
+  title: zinoun.ma
+  description: Badr Eddine Zinoun Blog
   author: Stackbit
   authorURL: 'https://www.stackbit.com'
   images:
