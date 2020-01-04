@@ -12,7 +12,11 @@ sections:
     content: >-
       📌 Passionate developer </br>
       📌 OSS believer </br>
-      📌Loving making stuff around :Java - Cloud - Devops - Software Architecture - Software Craftsmanship </br>
+      📌Loving making stuff around :
+           -  Java </br>
+           -  Cloud & Devops </br>
+           -  Software Architecture </br>
+           -  Software Craftsmanship </br>
       
       📢 Drop me a line , it will be a pleasure to exchange !
     actions:
