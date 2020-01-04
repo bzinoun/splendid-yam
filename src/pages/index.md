@@ -4,20 +4,19 @@ sections:
   - section_id: hero
     component: HeroBlock
     type: heroblock
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >- 
   - section_id: about
     component: ContentBlock
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      📌 Passionate developer </br>
+      📌 OSS believer </br>
+      📌Loving making stuff around :Java - Cloud - Devops - Software Architecture - Software Craftsmanship </br>
+      
+      📢 Drop me a line , it will be a pleasure to exchange !
     actions:
-      - label: Contact Me
+      - label: Contact
         url: /contact
   - section_id: recent-posts
     component: PostsBlock
