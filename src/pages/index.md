@@ -11,11 +11,11 @@ sections:
     type: contentblock
     title: About
     content: >- 
-      I'm morrocan passionate developer living in Casablanca , having more than 8 years expirience in IT developpement .  
+      I'm morrocan passionate developer living in Casablanca , having more than 8 years experience in IT world . </br> 
       In a changing world, digital transformation brings its challenges and added values . 
-      So, IT moves from a platform of support to a business leverage.
-      I work on the subject arround digital transformation in Agile / Scrum mode with a strong technical added value.
-      My daily work is to setting up new IT systems that can resolve this new digital needs  around :
+      So, IT moves from a platform of support to a business leverage.</br>
+      I work on the subject arround digital transformation in Agile / Scrum mode with a strong technical added value.</br>
+      My daily work is to setting up new IT systems that can resolve this new digital needs  around :</br>
             -  Java </br>
             -  Cloud & Devops </br>
             -  Software Architecture </br>
