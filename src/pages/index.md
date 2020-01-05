@@ -11,15 +11,7 @@ sections:
     type: contentblock
     title: About
     content: >- 
-          I'm a passionate Moroccan developer living in Casablanca, with more than 8 years experience as IT Consultant.</br>
-          In a changing world, digital transformation brought its challenges and added values which led to IT moving from a platform of support to a business leverage.</br>
-          Agile / Scrum methodology is my way-to-go when it comes to my digital transformation consultancy with strong technical value.</br>
-          My daily work is to set up new IT systems that can resolve daily IT problems using my skill set:</br>
-          - Java</br>
-          - Cloud computing & DevOps</br>
-          - Software Architect</br>
-          - Software Craftsmanship
-          📢 Drop me a line, It will be a pleasure to exchange!
+          I'm a passionate Moroccan developer living in Casablanca, with more than 8 years experience as IT Consultant.</br>In a changing world, digital transformation brought its challenges and added values which led to IT moving from a platform of support to a business leverage.</br>Agile / Scrum methodology is my way-to-go when it comes to my digital transformation consultancy with strong technical value.</br>My daily work is to set up new IT systems that can resolve daily IT problems using my skill set:</br>- Java</br>- Cloud computing & DevOps</br>- Software Architect</br>- Software Craftsmanship</br>📢 Drop me a line, It will be a pleasure to exchange!
       actions:
       - label: Contact
         url: /contact
