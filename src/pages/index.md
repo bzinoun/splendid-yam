@@ -21,7 +21,7 @@ sections:
             -  Software Craftsmanship </br>
         
         📢 Drop me a line , it will be a pleasure to exchange!
-      actions:
+    actions:
       - label: Contact
         url: /contact
   - section_id: recent-posts
