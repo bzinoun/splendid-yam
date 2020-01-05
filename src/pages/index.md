@@ -18,10 +18,8 @@ sections:
           - Java</br>
           - Cloud computing & DevOps</br>
           - Software Architect</br>
-          - Software Craftsmanship</br>
+          - Software Craftsmanship
           📢 Drop me a line, It will be a pleasure to exchange!
-
-
       actions:
       - label: Contact
         url: /contact
