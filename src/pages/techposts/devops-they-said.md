@@ -1,8 +1,8 @@
 ---
-title: Devops they said
+title: 🇫🇷/🇬🇧 Devops revenons aux bases 
 date: '2020-02-26T23:28:12.676Z'
 excerpt: ''
-thumb_img_path: null
+thumb_img_path: ./images/devops.png
 comments_count: 0
 positive_reactions_count: 6
 tags:
@@ -11,7 +11,6 @@ tags:
 canonical_url: null
 template: post
 ---
-
 
 
 J’adore l’envoûtement derrière le devops . A la base c’est partie d’un principe simple et louable qui est de mettre les devs et les ops autour d’objectif commun afin d’avoir un meilleurs TTM . 

@@ -306,6 +306,23 @@ models:
         name: menus
         label: Blog Menus
         description: Which menus should this page show up in
+  techtalks:
+    type: page
+    label: Tech Talks
+    template: tech
+    file: techtalks/index.md
+    hideContent: true
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: page_menus
+        name: menus
+        label: Tech Menus
+        description: Which menus should this page show up in
   contact:
     type: page
     label: Contact
